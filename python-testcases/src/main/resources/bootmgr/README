@@ -1,0 +1,32 @@
+OBSOLETED TCs
+=============
+
+Story 588
+---------
+test_02_n_no_root_access
+        Description:
+            This test has been deprecated because the
+            functioality it tests is no longer required and is no longer the
+            case.
+
+            Test to ensure that it is not possible to access MNs
+            via remote root access
+
+        git: 9e18c8e02ef397cbf4a294d1f00fa8039bb48689
+
+Story 1308
+----------
+moved to ATs
+
+git: 4dffac970a2219432f00801743058f1201fd5b1a
+gerrit: https://gerrit.ericsson.se/#/c/1162511/ 
+
+Story 1934
+----------
+
+moved to MISC-CDB
+
+git: 3b9e78506008bc6c77652470fa3c7c58cbd77a2f
+gerrit: https://gerrit.ericsson.se/#/c/986899/
+
+
